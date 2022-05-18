@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://github.com/slammy1/Silent-Aim/blob/main/Silent%20Aim"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/slammy1/Silent-Aim/main/Silent%20Aim"))()
 Aiming.TeamCheck(false)
 
 -- // Services
